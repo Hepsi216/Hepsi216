@@ -77,10 +77,6 @@ Built a spam classifier using Logistic Regression & Random Forest with Streamlit
 Developed a personalized movie recommender using ML, Flask, and DVC.  
 📌 `Python`, `Flask`, `DVC`, `scikit-learn`, `NLTK`
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U1aDE1b29pMGJsbWs3Y3Fxa2htOHh4d3BwcHRwaWpkcGd2dWR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2nt2dX21yO0NAaP7BS/giphy.gif" width="250"/>
-</p>
-
 ### 📫 Let's Connect!
 
 - 💌 [hepsiraniyelluri216@gmail.com](mailto:hepsiraniyelluri216@gmail.com)
